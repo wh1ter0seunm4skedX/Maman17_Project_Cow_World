@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Ground.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Cow.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="PointLight.cpp" />
+    <ClCompile Include="SpotLight.cpp" />
+    <ClCompile Include="Fence.cpp" />
+    <ClCompile Include="..\include\imgui\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\include\imgui\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\include\imgui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\include\imgui\imgui_impl_freeglut.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\include\imgui\imgui_impl_opengl2.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Tree.cpp" />
+    <ClCompile Include="Forest.cpp" />
+    <ClCompile Include="Farmhouse.cpp" />
+    <ClCompile Include="Wheat.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Cow.h" />
+    <ClInclude Include="Ground.h" />
+    <ClInclude Include="Context.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="Spotlight.h" />
+    <ClInclude Include="PointLight.h" />
+    <ClInclude Include="Fence.h" />
+    <ClInclude Include="..\include\imgui\imconfig.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\imgui\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\imgui\imgui_impl_freeglut.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\imgui\imgui_impl_opengl2.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\imgui\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\imgui\stb_rect_pack.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\imgui\stb_textedit.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\imgui\stb_truetype.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Tree.h" />
+    <ClInclude Include="Forest.h" />
+    <ClInclude Include="Farmhouse.h" />
+    <ClInclude Include="Wheat.h" />
+    <ClInclude Include="..\include\imgui\stb_rect_pack.h" />
+    <ClInclude Include="..\include\imgui\stb_textedit.h" />
+    <ClInclude Include="..\include\imgui\stb_truetype.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{33e4e2a6-3788-4840-9076-a9773c436bed}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\include\imgui\imgui.ini">
+      <Filter>imgui</Filter>
+    </None>
+  </ItemGroup>
+</Project>
