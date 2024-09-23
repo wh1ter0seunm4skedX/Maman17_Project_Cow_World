@@ -1,10 +1,10 @@
 # MeadowQuest3D 🌳🐄
 
-**MeadowQuest3D** is an immersive 3D simulation built with OpenGL, where you explore a serene meadow as a detailed cow character. Navigate a dynamic environment filled with interactive elements, ambient lighting, and realistic textures for a captivating gaming experience.
+An immersive 3D simulation built with OpenGL, where you explore a serene meadow as a detailed cow character. Navigate a dynamic environment filled with interactive elements, ambient lighting, and realistic textures for a captivating gaming experience.
 
 ## 🌟 Key Features
 
-- **Detailed Cow Model**: A lifelike cow composed of 3D shapes.
+- **Detailed Cow Model**: A lifelike (sort-of 😋) cow composed of 3D shapes.
 - **Dynamic Meadow**: Explore a vast meadow with trees, metallic objects, and more.
 - **Interactive Controls**: Move the cow’s head, tail, and legs with ease.
 - **Customizable Lighting**: Adjust ambient and point lighting for stunning effects.
