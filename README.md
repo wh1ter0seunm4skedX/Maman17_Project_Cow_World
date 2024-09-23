@@ -1,6 +1,6 @@
 # WanderField: The 3D Meadow
 
-WanderField: The 3D Meadow is an interactive 3D application developed with OpenGL that simulates a serene meadow environment. Players control a detailed cow character, exploring a vast world filled with trees, animals, and various objects, some exhibiting reflective properties due to their metallic textures. This project aims to deliver an immersive experience through realistic models, environmental lighting, and user interaction.
+An interactive 3D application developed with OpenGL that simulates a serene meadow environment. Players control a detailed cow character, exploring a vast world filled with trees, animals, and various objects, some exhibiting reflective properties due to their metallic textures. This project aims to deliver an immersive experience through realistic models, environmental lighting, and user interaction.
 
 ## Features
 
